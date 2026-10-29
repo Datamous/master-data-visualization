@@ -1,0 +1,121 @@
+order_id,product,channel,order_value
+1001,Mouse,Phone,30
+1002,Keyboard,Online,52
+1003,Headphones,Online,52
+1004,Mouse,Online,20
+1005,Webcam,Online,63
+1006,Keyboard,In store,30
+1007,Keyboard,In store,61
+1008,Monitor,In store,251
+1009,Webcam,In store,44
+1010,Webcam,Online,59
+1011,Headphones,In store,55
+1012,Webcam,In store,63
+1013,Webcam,Phone,58
+1014,Monitor,In store,132
+1015,Webcam,In store,49
+1016,Mouse,Phone,26
+1017,Monitor,In store,163
+1018,Headphones,Online,61
+1019,Keyboard,Online,58
+1020,Webcam,Phone,66
+1021,Headphones,Online,55
+1022,Webcam,Online,48
+1023,Keyboard,Online,60
+1024,Webcam,Online,44
+1025,Mouse,Online,20
+1026,Keyboard,Online,41
+1027,Mouse,In store,23
+1028,Mouse,Online,24
+1029,Headphones,In store,84
+1030,Headphones,In store,42
+1031,Mouse,Online,20
+1032,Monitor,Online,191
+1033,Keyboard,Online,46
+1034,Keyboard,In store,35
+1035,Headphones,In store,68
+1036,Headphones,Phone,36
+1037,Mouse,Online,17
+1038,Keyboard,Online,50
+1039,Monitor,Online,204
+1040,Keyboard,In store,59
+1041,Mouse,Online,16
+1042,Headphones,Online,41
+1043,Webcam,In store,54
+1044,Webcam,Online,55
+1045,Mouse,In store,20
+1046,Monitor,Online,227
+1047,Keyboard,Online,40
+1048,Mouse,In store,24
+1049,Webcam,Phone,88
+1050,Webcam,Online,55
+1051,Mouse,Online,22
+1052,Headphones,In store,63
+1053,Headphones,Online,71
+1054,Mouse,In store,37
+1055,Keyboard,In store,73
+1056,Keyboard,Online,29
+1057,Mouse,Online,27
+1058,Headphones,Online,37
+1059,Mouse,In store,24
+1060,Webcam,Online,41
+1061,Webcam,Online,66
+1062,Headphones,In store,77
+1063,Keyboard,In store,35
+1064,Headphones,In store,73
+1065,Mouse,Phone,27
+1066,Webcam,Online,42
+1067,Keyboard,In store,37
+1068,Mouse,Online,15
+1069,Webcam,In store,46
+1070,Keyboard,Online,46
+1071,Monitor,Online,159
+1072,Webcam,Online,58
+1073,Keyboard,Online,55
+1074,Monitor,Online,211
+1075,Keyboard,Phone,54
+1076,Headphones,Online,58
+1077,Keyboard,Online,59
+1078,Keyboard,In store,38
+1079,Mouse,Online,21
+1080,Headphones,In store,43
+1081,Webcam,In store,56
+1082,Monitor,Online,130
+1083,Mouse,Online,24
+1084,Mouse,Online,25
+1085,Webcam,In store,64
+1086,Mouse,Online,22
+1087,Mouse,Online,10
+1088,Mouse,Phone,22
+1089,Keyboard,Online,34
+1090,Keyboard,Online,20
+1091,Webcam,Online,73
+1092,Monitor,Online,275
+1093,Monitor,In store,186
+1094,Webcam,In store,49
+1095,Headphones,Online,33
+1096,Mouse,In store,21
+1097,Headphones,In store,58
+1098,Monitor,In store,185
+1099,Webcam,Online,45
+1100,Webcam,In store,58
+1101,Keyboard,Online,57
+1102,Webcam,Phone,53
+1103,Headphones,Online,62
+1104,Headphones,Online,71
+1105,Mouse,Online,20
+1106,Mouse,Online,24
+1107,Mouse,Online,28
+1108,Keyboard,In store,33
+1109,Webcam,Online,34
+1110,Mouse,In store,28
+1111,Headphones,Online,64
+1112,Keyboard,Online,56
+1113,Webcam,Phone,29
+1114,Mouse,In store,9
+1115,Monitor,Online,222
+1116,Headphones,Online,71
+1117,Headphones,Online,41
+1118,Mouse,Online,31
+1119,Keyboard,Online,51
+1120,Keyboard,Online,39

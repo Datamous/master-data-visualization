@@ -1,0 +1,13 @@
+store,region,visitors,daily_revenue,conversion
+Seattle,Pacific,310,2100,0.021
+Oakland,Pacific,180,1650,0.027
+San Francisco,Pacific,420,3300,0.024
+Portland,Pacific,230,2250,0.032
+Sacramento,Pacific,200,1900,0.03
+Los Angeles,Pacific,480,4600,0.034
+San Jose,Pacific,350,2400,0.02
+San Diego,Pacific,170,1500,0.028
+Boise,Mountain,150,980,0.019
+Denver,Mountain,260,2050,0.023
+Salt Lake City,Mountain,140,1100,0.026
+Albuquerque,Mountain,120,900,0.022
